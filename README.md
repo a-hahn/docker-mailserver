@@ -8,7 +8,10 @@ Easy to deploy and upgrade.
 
 # NOTE !
 
-All **settings and configuration** can be found in **Project oops/tech subfolder mail**
+All private **settings and configuration** can be found in **Project oops/tech subfolder mail**
+
+The **package** `docker pull docker.pkg.github.com/a-hahn/docker-mailserver/docker-mailserver:0.0.1` is **not working**
+but cannot be deleted.
 
 ## ANNOUNCEMENT
 
